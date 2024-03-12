@@ -13,8 +13,11 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 
 ### Step 5: 
+Print both the values it would be interchanged
 
-### Step 6: 
+### Step 6:
+End the program
+
 ## Program:
 ```
 def circulate():
