@@ -25,8 +25,10 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
+    #name:Tom francies xaviour
+    #reg no:212223110060
 ```
 ## Output:
-![Screenshot 2024-03-12 191931](https://github.com/Tomfx03/Circulate-the-values-of-N-variables/assets/101335832/a5bd4d51-7b21-4f57-837f-70c08afba059)
+![alt text](<Screenshot 2024-04-12 134444.png>)
 ## Result:
 hence, a python program to circulate the n variables using function concept
