@@ -31,6 +31,7 @@ def circulate():
     #reg no:212223110060
 ```
 ## Output:
-![alt text](<Screenshot 2024-04-12 134444.png>)
+![Screenshot 2024-04-12 140659](https://github.com/Tomfx03/Circulate-the-values-of-N-variables/assets/101335832/5fe382a3-a702-4895-8874-8b1ddc78bfcd)
+
 ## Result:
 hence, a python program to circulate the n variables using function concept
